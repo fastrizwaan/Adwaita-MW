@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg4159"
+   version="1.1"
+   inkscape:version="0.92.4 (unknown)"
+   viewBox="0 0 16 16"
+   sodipodi:docname="application-pdf.svg">
+  <title
+     id="title815">Boston Icons</title>
+  <defs
+     id="defs4161">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective4709" />
+    <linearGradient
+       gradientTransform="matrix(0.35021508,0,0,0.34822956,47.049638,-1.1986576)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1040"
+       id="linearGradient1042"
+       x1="-130.53114"
+       y1="41.771606"
+       x2="-91.765419"
+       y2="15.149236"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1040">
+      <stop
+         style="stop-color:#ffdd9c;stop-opacity:1"
+         offset="0"
+         id="stop1036" />
+      <stop
+         style="stop-color:#ffff9c;stop-opacity:1"
+         offset="1"
+         id="stop1038" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect938-1"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00fff6"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="2.408445"
+     inkscape:cy="8.8127238"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4707" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff3300;stroke-width:3.23334408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 66.99982,12.035564 c 6.594581,-4.4479964 15.751917,-20.3375469 16.300462,-28.276465 0.548546,-7.938919 -7.505904,-7.943369 -6.951725,0.0012 0.554179,7.9445292 9.705115,23.8162734 16.302735,28.268503 6.597619,4.452229 10.624928,-2.5349823 3.479032,-6.0275939 C 88.984425,2.5085564 70.675375,2.5114545 63.525763,6.0082139 56.376151,9.5049734 60.40524,16.48356 66.99982,12.035564 Z"
+       id="path936"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect938-1"
+       inkscape:original-d="m 64.440016,23.471997 c 9.152396,-15.8855756 18.309732,-31.7751264 27.459743,-47.647368 -8.050931,-0.0051 -16.105381,-0.0095 -24.160507,-0.01335 9.162028,15.8943488 18.312963,31.7660934 27.479596,47.661697 4.028074,-6.993132 8.055382,-13.9803449 12.085212,-20.9673193 -18.319635,0.00228 -36.628685,0.00518 -54.963943,0.0087 4.034579,6.9914569 8.063668,13.9700433 12.099899,20.9576403 z"
+       sodipodi:nodetypes="scccccs"
+       transform="matrix(-0.18420961,0.32151261,-0.31906044,-0.18562537,22.895481,-15.617721)" />
+  </g>
+</svg>
