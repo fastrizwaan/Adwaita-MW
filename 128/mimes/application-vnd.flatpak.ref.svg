@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -16,7 +14,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="application-vnd.flatpak.ref.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -8169,11 +8167,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="66.381133"
-     inkscape:cy="50.910358"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="152.1536"
+     inkscape:cy="77.396843"
      inkscape:document-units="px"
-     inkscape:current-layer="g4626"
+     inkscape:current-layer="g2174"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -8181,11 +8179,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1308"
-     inkscape:window-height="704"
-     inkscape:window-x="58"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1530"
+     inkscape:window-height="752"
+     inkscape:window-x="101"
+     inkscape:window-y="219"
+     inkscape:window-maximized="0"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:snap-global="true"
@@ -8198,7 +8196,8 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3182"
@@ -8382,7 +8381,7 @@
                        style="stroke-width:2.00000119;stroke-miterlimit:4;stroke-dasharray:none">
                       <rect
                          rx="12"
-                         style="fill:url(#pattern7515-03-7-2);fill-opacity:1;stroke:#b29f80;stroke-width:2.00000119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                         style="fill:#f4e6d0;fill-opacity:1;stroke:#cebda7;stroke-width:2.00000119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                          id="rect1533-1"
                          width="96"
                          height="96"
@@ -8394,7 +8393,7 @@
                          inkscape:connector-curvature="0"
                          id="rect852"
                          d="M 17.110064,9.562971 16.926651,33.216157 7.2023826,33.387665 31.292959,61.343412 55.823633,32.531513 46.099371,32.703019 46.282757,9.0498331 Z"
-                         style="opacity:1;fill:#9e8b6b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00000119;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+                         style="opacity:1;fill:#aa9680;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00000119;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
                     </g>
                   </g>
                 </g>
