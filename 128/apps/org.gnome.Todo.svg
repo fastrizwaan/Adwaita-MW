@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="135.35196"
-     inkscape:cy="56.302909"
+     inkscape:zoom="5.6"
+     inkscape:cx="49.052453"
+     inkscape:cy="80.526106"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g916"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="1519"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
@@ -46,7 +46,8 @@
      inkscape:object-paths="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false">
     <inkscape:grid
        type="xygrid"
        id="grid940" />
@@ -69,10 +70,10 @@
      id="layer1">
     <g
        id="g916"
-       transform="matrix(2.0000001,0,0,2.0000001,126.28465,-221.10607)"
-       style="display:inline">
+       transform="matrix(1.7187501,0,0,1.7187501,117.52587,-181.01303)"
+       style="display:inline;stroke-width:2.32727259;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
       <rect
-         style="fill:#204a87;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.93939;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70414;paint-order:fill markers stroke"
+         style="fill:#204a87;fill-opacity:1;fill-rule:evenodd;stroke:#204a87;stroke-width:4.65454518;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;opacity:1"
          id="rect14"
          width="62.060608"
          height="62.060608"
@@ -84,7 +85,7 @@
       <path
          id="path2510"
          d="m -39.183834,145.52005 c 0.883,2e-5 1.55092,0.70332 2.00378,2.10991 0.90563,2.63737 1.55093,3.95605 1.93584,3.95602 0.29433,3e-5 0.59998,-0.21975 0.91698,-0.65933 6.36224,-9.89008 12.24903,-17.89007 17.66037,-24.00001 1.40374,-1.58236 3.63393,-2.37358 6.6905797,-2.37361 0.72448,3e-5 1.21127,0.0659 1.46036,0.19778 0.24901,0.13193 0.37355,0.29676 0.3736,0.49452 -5e-5,0.30774 -0.37363,0.91213 -1.12076,1.81319 -8.7396597,10.19785 -16.8453097,20.96704 -24.3169697,32.3077 -0.52079,0.7912 -1.58493,1.18682 -3.19247,1.18681 -1.63019,1e-5 -2.59247,-0.0659 -2.88678,-0.1978 -0.76983,-0.32967 -1.67548,-2.01098 -2.71697,-5.04396 -1.17737,-3.36264 -1.76607,-5.47251 -1.76605,-6.32967 -2e-5,-0.92306 0.79244,-1.81317 2.37735,-2.67033 0.97358,-0.52744 1.83396,-0.7912 2.58114,-0.79122"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Webdings;-inkscape-font-specification:Webdings;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259839px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Webdings;-inkscape-font-specification:Webdings;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.32727259;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
   </g>
 </svg>
