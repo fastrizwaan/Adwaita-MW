@@ -39,7 +39,7 @@
        fy="16.276314"
        r="33.357577"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1491078,0.00292274,-0.00323323,1.2711798,16.607514,-4.0893077)" />
+       gradientTransform="matrix(1.2281088,0.00312368,-0.00345551,1.3585733,104.67786,126.89139)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -48,9 +48,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="80.681502"
-     inkscape:cy="42.091979"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="80.456477"
+     inkscape:cy="106.29234"
      inkscape:document-units="px"
      inkscape:current-layer="g916"
      inkscape:document-rotation="0"
@@ -98,19 +98,18 @@
        transform="matrix(1.7187501,0,0,1.7187501,117.52587,-181.01303)"
        style="display:inline;stroke-width:2.32727259;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
       <rect
-         style="opacity:1;fill:url(#radialGradient2140);fill-opacity:1;fill-rule:evenodd;stroke:#204a87;stroke-width:4.65455;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;fill:url(#radialGradient2140);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.97455;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect14"
-         width="62.060608"
-         height="62.060608"
-         x="-140.96162"
-         y="-19.921066"
-         rx="7.757576"
-         ry="7.757576"
-         transform="translate(78.788996,131.44379)" />
+         width="66.327271"
+         height="66.327271"
+         x="-63.72414"
+         y="109.97121"
+         rx="8.2909088"
+         ry="8.2909088" />
       <path
          id="path2510"
-         d="m -39.183834,145.52005 c 0.883,2e-5 1.55092,0.70332 2.00378,2.10991 0.90563,2.63737 1.55093,3.95605 1.93584,3.95602 0.29433,3e-5 0.59998,-0.21975 0.91698,-0.65933 6.36224,-9.89008 12.24903,-17.89007 17.66037,-24.00001 1.40374,-1.58236 3.63393,-2.37358 6.6905797,-2.37361 0.72448,3e-5 1.21127,0.0659 1.46036,0.19778 0.24901,0.13193 0.37355,0.29676 0.3736,0.49452 -5e-5,0.30774 -0.37363,0.91213 -1.12076,1.81319 -8.7396597,10.19785 -16.8453097,20.96704 -24.3169697,32.3077 -0.52079,0.7912 -1.58493,1.18682 -3.19247,1.18681 -1.63019,1e-5 -2.59247,-0.0659 -2.88678,-0.1978 -0.76983,-0.32967 -1.67548,-2.01098 -2.71697,-5.04396 -1.17737,-3.36264 -1.76607,-5.47251 -1.76605,-6.32967 -2e-5,-0.92306 0.79244,-1.81317 2.37735,-2.67033 0.97358,-0.52744 1.83396,-0.7912 2.58114,-0.79122"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Webdings;-inkscape-font-specification:Webdings;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.32727259;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m -39.154868,146.30584 c 0.943707,2e-5 1.657546,0.75168 2.14154,2.25497 0.967892,2.81869 1.657556,4.22803 2.068929,4.228 0.314565,3e-5 0.641229,-0.23486 0.980022,-0.70466 6.799644,-10.57003 13.09115,-19.12001 18.874519,-25.65001 1.500247,-1.69115 3.883762,-2.53677 7.1505565,-2.5368 0.774288,3e-5 1.294545,0.0704 1.560759,0.21138 0.26613,0.141 0.399232,0.31716 0.399285,0.52852 -5.3e-5,0.32889 -0.399317,0.97484 -1.197812,1.93784 -9.3405105,10.89896 -18.0034225,22.40853 -25.9887585,34.52886 -0.556594,0.84559 -1.693894,1.26841 -3.411952,1.2684 -1.742266,1e-5 -2.770702,-0.0704 -3.085246,-0.2114 -0.822756,-0.35233 -1.790669,-2.14923 -2.903762,-5.39073 -1.258314,-3.59382 -1.887487,-5.84875 -1.887465,-6.76484 -2.2e-5,-0.98652 0.84692,-1.93782 2.540792,-2.85391 1.040514,-0.5637 1.960045,-0.8456 2.758593,-0.84562"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Webdings;-inkscape-font-specification:Webdings;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.48727;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
