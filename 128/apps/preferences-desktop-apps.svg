@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   style="display:inline;enable-background:new"
+   version="1.0"
+   id="svg11300"
+   height="128"
+   width="128"
+   sodipodi:docname="preferences-desktop-apps.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1335"
+     inkscape:window-height="749"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="134.72466"
+     inkscape:cy="113.55995"
+     inkscape:window-x="35"
+     inkscape:window-y="215"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g997"
+     inkscape:document-rotation="0" />
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>GNOME Design Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-172)"
+     style="display:inline"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="layer9">
+      <g
+         transform="translate(-220)"
+         id="g997">
+        <rect
+           x="-290"
+           y="287.57928"
+           width="50.419102"
+           height="50.420807"
+           ry="5.9566879"
+           rx="5.9564857"
+           style="fill:#008bf4;fill-opacity:1;stroke-width:2.87246"
+           id="rect2208"
+           transform="rotate(-90)" />
+        <rect
+           x="-290"
+           y="230.00009"
+           width="50.419102"
+           height="50.420807"
+           ry="5.9566879"
+           rx="5.9564857"
+           style="fill:#5bbd5b;fill-opacity:1;stroke-width:2.87246"
+           id="rect1307"
+           transform="rotate(-90)" />
+        <rect
+           x="-232.4191"
+           y="230.00009"
+           width="50.419102"
+           height="50.420807"
+           ry="5.9566879"
+           rx="5.9564857"
+           style="fill:#da484d;fill-opacity:1;stroke-width:2.87246"
+           id="rect2202"
+           transform="rotate(-90)" />
+        <rect
+           x="-232.4191"
+           y="287.57928"
+           width="50.419102"
+           height="50.420807"
+           ry="5.9566879"
+           rx="5.9564857"
+           style="fill:#ffb000;fill-opacity:1;stroke-width:2.87246"
+           id="rect2210"
+           transform="rotate(-90)" />
+      </g>
+    </g>
+  </g>
+</svg>
