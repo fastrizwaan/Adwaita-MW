@@ -15,7 +15,7 @@
    style="enable-background:new"
    id="svg36"
    sodipodi:docname="org.gnome.Terminal.svg"
-   inkscape:version="0.92.4 (unknown)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata40">
     <rdf:RDF>
@@ -36,19 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1308"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview38"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="77.56629"
-     inkscape:cy="12.45302"
-     inkscape:window-x="58"
-     inkscape:window-y="27"
+     inkscape:cx="144.38442"
+     inkscape:cy="43.463139"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer9"
      inkscape:snap-bbox="true"
-     inkscape:snap-object-midpoints="true" />
+     inkscape:snap-object-midpoints="true"
+     inkscape:document-rotation="0" />
   <title
      id="title4162">
   Adwaita Icon Template
@@ -63,7 +64,7 @@
          offset="0"
          id="stop842" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         style="stop-color:#3d3846;stop-opacity:1"
          offset="1"
          id="stop844" />
     </linearGradient>
@@ -135,10 +136,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient846"
        id="linearGradient858"
-       x1="66.426964"
-       y1="276.44193"
-       x2="66.588005"
-       y2="193.71043"
+       x1="69.128174"
+       y1="278.30069"
+       x2="70.459618"
+       y2="190.94353"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.98030438,0,0,0.99946144,3.2021294,2.6817567)" />
   </defs>
