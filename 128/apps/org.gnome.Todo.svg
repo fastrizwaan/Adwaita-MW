@@ -1,46 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128.0px"
    height="128.0px"
    viewBox="0 0 128.0 128.0"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="org.gnome.Todo.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs931">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2138">
-      <stop
-         style="stop-color:#1a5fb4;stop-opacity:1"
-         offset="0"
-         id="stop2134" />
-      <stop
-         style="stop-color:#204a87;stop-opacity:1"
-         offset="1"
-         id="stop2136" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2138"
-       id="radialGradient2140"
-       cx="-111.0264"
-       cy="16.276314"
-       fx="-111.0264"
-       fy="16.276314"
-       r="33.357577"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2281088,0.00312368,-0.00345551,1.3585733,104.67786,126.89139)" />
-  </defs>
+     id="defs931" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -49,17 +24,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="80.456477"
-     inkscape:cy="106.29234"
+     inkscape:cx="80.433397"
+     inkscape:cy="78.1353"
      inkscape:document-units="px"
      inkscape:current-layer="g916"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1502"
+     inkscape:window-height="752"
+     inkscape:window-x="295"
+     inkscape:window-y="162"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
@@ -72,7 +47,8 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid940" />
@@ -98,7 +74,7 @@
        transform="matrix(1.7187501,0,0,1.7187501,117.52587,-181.01303)"
        style="display:inline;stroke-width:2.32727259;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
       <rect
-         style="opacity:1;fill:url(#radialGradient2140);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.97455;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;fill:#1f4e8f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.97455;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect14"
          width="66.327271"
          height="66.327271"

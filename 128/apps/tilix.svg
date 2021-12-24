@@ -15,7 +15,7 @@
    height="128"
    width="128"
    sodipodi:docname="tilix.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="0.92.4 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,22 +25,33 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
      id="namedview45"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="97.342023"
-     inkscape:cy="84.305046"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="93.396688"
+     inkscape:cy="75.168929"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="layer9" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1533">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1529" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1531" />
+    </linearGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-5.1570247,6.4097751e-7,-3.3056172e-7,-1.3216783,266.04961,-12.111934)"
@@ -98,6 +109,45 @@
          offset="1"
          style="stop-color:#77767b;stop-opacity:1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient846">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="0"
+         id="stop842" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop844" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1533"
+       id="linearGradient1535"
+       x1="11.994394"
+       y1="240"
+       x2="116.0056"
+       y2="240"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1537"
+       gradientUnits="userSpaceOnUse"
+       x1="11.994394"
+       y1="240"
+       x2="116.0056"
+       y2="240" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1577"
+       gradientUnits="userSpaceOnUse"
+       x1="11.994394"
+       y1="240"
+       x2="116.0056"
+       y2="240" />
   </defs>
   <metadata
      id="metadata4">
@@ -195,19 +245,19 @@
          id="text863"
          y="164"
          x="0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.332649;enable-background:new"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33264872;enable-background:new"
          xml:space="preserve"><tspan
            y="164"
            x="0"
            id="tspan861"
-           style="font-size:4px;stroke-width:0.332649">Hicolor</tspan></text>
+           style="font-size:4px;stroke-width:0.33264872">Hicolor</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.332649;enable-background:new"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33264872;enable-background:new"
          x="160"
          y="164"
          id="text867"><tspan
-           style="font-size:4px;stroke-width:0.332649"
+           style="font-size:4px;stroke-width:0.33264872"
            id="tspan865"
            x="160"
            y="164">Symbolic</tspan></text>
@@ -226,9 +276,9 @@
          style="display:inline;opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
       <g
          id="g1527"
-         style="fill-opacity:1;fill:#241f31">
+         style="fill-opacity:1;fill:url(#linearGradient1535)">
         <rect
-           style="display:inline;opacity:1;vector-effect:none;fill:#241f31;fill-opacity:1;stroke:#484848;stroke-width:0.01121096px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+           style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1537);fill-opacity:1.0;stroke:#484848;stroke-width:0.01121096px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
            id="rect1004"
            width="104"
            height="72"
@@ -243,7 +293,7 @@
            height="63"
            width="96"
            id="rect968"
-           style="display:inline;opacity:0.05;vector-effect:none;fill:#241f31;fill-opacity:1;stroke:#484848;stroke-width:0.01121096px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+           style="display:inline;opacity:0.05;vector-effect:none;fill:url(#linearGradient1577);fill-opacity:1;stroke:#484848;stroke-width:0.01121096px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
            transform="scale(-1)" />
       </g>
       <g
