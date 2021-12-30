@@ -24,19 +24,34 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="33.057242"
-     inkscape:cy="55.684659"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.5"
+     inkscape:cx="88"
+     inkscape:cy="56"
+     inkscape:window-width="1321"
+     inkscape:window-height="699"
+     inkscape:window-x="45"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer9" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
-     id="defs3" />
+     id="defs3">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="d">
+      <rect
+         ry="56.25"
+         y="179.75"
+         x="7.75"
+         height="114.375"
+         width="112.5"
+         opacity="0.1"
+         fill="#3584e4"
+         stroke-width="4"
+         id="rect18" />
+    </clipPath>
+  </defs>
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -67,7 +82,7 @@
            x="107.99998"
            id="tspan1202" /></text>
       <path
-         style="display:inline;opacity:1;fill:#ad7fa8;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+         style="display:inline;opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
          d="m 108.04004,184 c 4.432,0 8,3.568 8,8 v 84 c 0,4.432 -3.568,8 -8,8 H 60.040039 V 184 Z"
          id="path1520" />
       <rect
@@ -135,7 +150,7 @@
          d="M 12,235 H 63.96337"
          style="fill:none;fill-rule:evenodd;stroke:#5e5c64;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="display:inline;opacity:1;fill:#9c7398;fill-opacity:1;stroke:none;stroke-width:0.0112982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+         style="display:inline;opacity:1;fill:#dd6d00;fill-opacity:1;stroke:none;stroke-width:0.0112982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
          d="M 81.515698,206.34315 87.172552,212 l -5.656854,5.65685 2.828427,2.82843 5.656854,-5.65685 5.656854,5.65685 2.828428,-2.82843 L 92.829407,212 l 5.656854,-5.65685 -2.828427,-2.82843 -5.656854,5.65685 -5.656854,-5.65685 z"
          id="path24959" />
       <path
